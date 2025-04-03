@@ -1,4 +1,4 @@
-# Movie Recommender
+# Film Recommender
 
 A simple Artificial Intelligence project in Python to recommend similar movies based on textual description. It uses **NLP** (Natural Language Processing) techniques and **unsupervised machine learning** to find the movies most similar to the one chosen by the user.
 
