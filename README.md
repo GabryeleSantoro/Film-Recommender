@@ -19,5 +19,3 @@ A simple Artificial Intelligence project in Python to recommend similar movies b
 - Analysis based on movie descriptions (summaries/plots)
 
 ---
-
-Translated with DeepL.com (free version)
